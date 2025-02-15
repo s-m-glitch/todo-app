@@ -6,10 +6,19 @@ body {
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
+    background-color: #FF6B00;
+    /* Bright neon orange */
 }
 
+/* Alternative neon orange options:
+background-color: #FF5F1F; - More reddish neon
+background-color: #FF7F00; - Pure neon orange
+background-color: #FF8C00; - Dark neon orange
+background-color: #FFA500; - Classic orange
+*/
+
 .container {
-    background-color: #f5f5f5;
+    background-color: white;
     padding: 20px;
     border-radius: 8px;
     box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
