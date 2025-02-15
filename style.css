@@ -1,5 +1,8 @@
+/* Import IBM Plex Mono from Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500;600&display=swap');
+
 body {
-    font-family: 'Arial', sans-serif;
+    font-family: 'IBM Plex Mono', monospace;
     max-width: 600px;
     margin: 0 auto;
     padding: 20px;
